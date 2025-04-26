@@ -1,0 +1,1 @@
+grant select,insert on covid_data to user1;

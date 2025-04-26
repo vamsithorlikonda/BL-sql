@@ -1,0 +1,1 @@
+update covid_data set confirmed = 5000 where country_region ='Albania'

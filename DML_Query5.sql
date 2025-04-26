@@ -1,0 +1,1 @@
+delete from covid_data where country_region='Lakshdeep';
