@@ -2,4 +2,4 @@
 select country_region,one_week_percent_increase from
 covid_data
 order by one_week_percent_increase desc
-limit 3;
+limit 3; 

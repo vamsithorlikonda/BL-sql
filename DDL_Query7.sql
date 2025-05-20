@@ -12,3 +12,4 @@ CREATE TABLE day_wise (
     deaths_per_100_recovered FLOAT,
     no_of_countries INTEGER
 );
+ 

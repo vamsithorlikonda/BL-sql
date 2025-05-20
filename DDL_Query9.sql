@@ -14,4 +14,4 @@ CREATE TABLE usa_country_wise (
     one_week_change INTEGER,
     one_week_percent_increase FLOAT,
     who_region TEXT
-);
+); 

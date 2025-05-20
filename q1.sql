@@ -2,4 +2,4 @@
 select country_region,deaths_per_million from worldometer_data
 where deaths_per_million is not null
 order by deaths_per_million desc
-limit 5;
+limit 5; 

@@ -1,1 +1,1 @@
-turncate table covid_data;
+turncate table covid_data; 

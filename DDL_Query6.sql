@@ -11,3 +11,4 @@ CREATE TABLE covid_19_clean_complete (
     who_region TEXT
 );
 
+ 

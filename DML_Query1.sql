@@ -1,1 +1,1 @@
-select * from covid_data;
+select * from covid_data; 

@@ -14,4 +14,4 @@ CREATE TABLE covid_data (
     one_week_change INT,
     one_week_percent_increase FLOAT,
     who_region VARCHAR(100)
-);
+); 

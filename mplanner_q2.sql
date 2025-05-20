@@ -16,3 +16,4 @@ select
     il.Locally_infected_percentage,
     ig.Globally_infected_percentage
 from Infected_local il, Infected_global ig;
+ 

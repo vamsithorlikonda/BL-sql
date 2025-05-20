@@ -11,3 +11,4 @@ where `Country/Region`!='US'
 
 select * from global_per,local_per;
 
+ 

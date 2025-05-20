@@ -16,3 +16,4 @@ CREATE TABLE worldometer_data (
     tests_per_million FLOAT,
     who_region TEXT
 );
+ 

@@ -14,3 +14,4 @@ CREATE TABLE usa_county_wise (
     confirmed INTEGER,
     deaths INTEGER
 );
+ 

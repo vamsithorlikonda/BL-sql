@@ -2,3 +2,4 @@
 select country_region,recovered_per_100_cases,who_region from covid_data
 where recovered_per_100_cases > 90
 order by recovered_per_100_cases desc;
+ 

@@ -7,3 +7,4 @@ FROM worldometer_data
 WHERE continent IS NOT NULL
 GROUP BY continent
 ORDER BY continent DESC;
+ 

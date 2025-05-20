@@ -1,1 +1,1 @@
-drop table covid_data;
+drop table covid_data; 
